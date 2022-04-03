@@ -31,6 +31,9 @@ socials:
   Facebook:
   Slack:
 
+futrue: true
+published: true
+
 # build settings
 markdown: kramdown
 

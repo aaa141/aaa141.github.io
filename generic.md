@@ -1,13 +1,40 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: IT
+description: mobile / esb / msa
+image: assets/images/jett.jpeg
 nav-menu: true
 ---
+<!-- Main -->
+<div id="main">
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+  <!-- 하나 -->
+  <section id="one">
+    <div class="inner">
+      <header class="major">
+        <a href = "_posts/2022-03-27-secureCoding.html">
+        <h2>시큐어코딩</h2>
+        </a>
+      </header>
+      <p>시큐어코딩은 여러 이유로 나에게 실천하기 어려웠던 것 중 하나였다. 최근 pentest를 통해 드러난 취약점을 수정하면서 그 필요성을 급격하게 공감하게 됐고 이를 정리한 글.</p>
+    </div>
+  </section>
+  <!-- 둘 -->
+  <section id="two">
+    <div class="inner">
+        <header class="major">
+          <h2>MSA와 쿠버네티스</h2>
+        </header>
+        <p>언젠간 정리하겠지?</p>
+     </div>
+  </section>
+  <!-- 셋 -->
+  <section id="three">
+    <div class="inner">
+        <header class="major">
+          <h2>모바일 버전관리</h2>
+        </header>
+        <p></p>
+     </div>
+  </section>
+</div>
